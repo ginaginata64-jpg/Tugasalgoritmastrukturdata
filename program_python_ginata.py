@@ -1,0 +1,18 @@
+# Program Python sederhana buatan Ginata
+
+print("=" * 40)
+print("        PROGRAM PYTHON GINATA")
+print("=" * 40)
+print()
+print("Halo! 👋")
+print("Selamat datang di program saya.")
+print()
+print("Nama saya : Ginata")
+print("Bahasa    : Python")
+print("Status    : Sedang belajar Python 🚀")
+print()
+print("=" * 40)
+print("        TERIMA KASIH!")
+print("=" * 40)
+print()
+input("Tekan ENTER untuk keluar...")
